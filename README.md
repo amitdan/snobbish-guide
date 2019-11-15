@@ -1,4 +1,4 @@
-# Messaging Work Queue Mission for Node.js
+# Messaging Work Queue Mission for Node
 
 ## Purpose
 
